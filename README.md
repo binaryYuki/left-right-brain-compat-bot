@@ -88,14 +88,14 @@ $text{IDF}(w_{i}) = \log \left(\frac{\text{Total number of documents}}{\text{Num
 Each engagement metric is normalized using **Min-Max Scaling with 95th Percentile Clipping**:
 
 ### **1. Normalized Reply Count**
-$\text{Norm Reply} = \frac{\min(\text{tweet_reply_count}, Q_{95}^{\text{reply}}) - \min(\text{tweet_reply_count})}{Q_{95}^{\text{reply}} - \min(\text{tweet_reply_count}) + 1e^{-8}}$
+$\text{Norm Reply} = \frac{\min(\text{tweet reply count}, Q_{95}^{\text{reply}}) - \min(\text{tweet reply count})}{Q_{95}^{\text{reply}} - \min(\text{tweet reply count}) + 1e^{-8}}$
 
 ### **2. Normalized Quote Count**
 
-$text{Norm Quote} = \frac{\min(\text{tweet_quote_count}, Q_{95}^{\text{quote}}) - \min(\text{tweet_quote_count})}{Q_{95}^{\text{quote}} - \min(\text{tweet_quote_count}) + 1e^{-8}}$
+$text{Norm Quote} = \frac{\min(\text{tweet quote count}, Q_{95}^{\text{quote}}) - \min(\text{tweet quote count})}{Q_{95}^{\text{quote}} - \min(\text{tweet quote count}) + 1e^{-8}}$
 
 ### **3. Normalized Conflict Ratio**
-$text{Conflict Ratio} = \frac{\text{tweet_reply_count} + \text{tweet_quote_count}}{\text{tweet_like_count} + \text{tweet_retweet_count} + 1}$
+$text{Conflict Ratio} = \frac{\text{tweet reply count} + \text{tweet quote count}}{\text{tweet like count} + \text{tweet retweet count} + 1}$
 
 $text{Norm Ratio} = \frac{\min(\text{Conflict Ratio}, Q_{95}^{\text{ratio}}) - \min(\text{Conflict Ratio})}{Q_{95}^{\text{ratio}} - \min(\text{Conflict Ratio}) + 1e^{-8}}$
 
@@ -113,15 +113,15 @@ $( 1e^{-8} )$ prevents division by zero.
 
 The **Engagement Score** is calculated as the sum of various engagement metrics:
 
-$E = \text{tweet_reply_count} + \text{tweet_retweet_count} + \text{tweet_like_count} + \text{tweet_quote_count} + \text{tweet_bookmark_count}$
+$E = \text{tweet reply count} + \text{tweet retweet count} + \text{tweet like count} + \text{tweet quote count} + \text{tweet bookmark count}$
 
 ### **Explanation of Variables**
 ( E ) = **Engagement Score** (total interactions on a tweet).
-$( \text{tweet_reply_count} ) = Number of replies to the tweet.$
-$( \text{tweet_retweet_count} ) = Number of retweets.$
-$( \text{tweet_like_count} ) = Number of likes.$
-$( \text{tweet_quote_count} ) = Number of quote tweets.$
-$( \text{tweet_bookmark_count} ) = Number of times the tweet was bookmarked.$
+$( \text{tweet reply count} ) = Number of replies to the tweet.$
+$( \text{tweet retweet count} ) = Number of retweets.$
+$( \text{tweet like count} ) = Number of likes.$
+$( \text{tweet quote count} ) = Number of quote tweets.$
+$( \text{tweet bookmark count} ) = Number of times the tweet was bookmarked.$
 
 ### **Interpretation**
 - Higher engagement scores indicate **higher user interaction** with the tweet.
@@ -149,7 +149,7 @@ $text{TF-IDF Score} = \sum_{i=1}^{N} \text{TF-IDF}(w_i)$
 
 $( \text{Engagement Score} ) = The total interaction with a tweet:$
 
-$  E = \text{tweet_reply_count} + \text{tweet_retweet_count} + \text{tweet_like_count} + \text{tweet_quote_count} + \text{tweet_bookmark_count}$
+$  E = \text{tweet reply count} + \text{tweet retweet count} + \text{tweet like count} + \text{tweet quote count} + \text{tweet bookmark count}$
 
 ### **Interpretation**
 - The **TF-IDF Score** captures **textual importance** based on how unique and relevant the words are.
