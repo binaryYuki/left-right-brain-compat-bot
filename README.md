@@ -149,7 +149,7 @@ $text{TF-IDF Score} = \sum_{i=1}^{N} \text{TF-IDF}(w_i)$
 
 $( \text{Engagement Score} ) = The total interaction with a tweet:$
 
-$  E = \text{tweet reply count} + \text{tweet retweet count} + \text{tweet like count} + \text{tweet quote count} + \text{tweet bookmark count}$
+$\text E = {tweet reply count} + \text{tweet retweet count} + \text{tweet like count} + \text{tweet quote count} + \text{tweet bookmark count} $
 
 ### **Interpretation**
 - The **TF-IDF Score** captures **textual importance** based on how unique and relevant the words are.
