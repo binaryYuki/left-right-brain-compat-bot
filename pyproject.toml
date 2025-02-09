@@ -1,0 +1,24 @@
+[project]
+name = "left-right-brain-compat-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "langchain-ollama>=0.2.3",
+    "langchain>=0.3.18",
+    "openai>=1.61.1",
+    "pytest>=8.3.4",
+    "python-dotenv>=1.0.1",
+    "swarm",
+    "langchain-openai>=0.3.4",
+    "langchain-community>=0.3.17",
+    "chromadb>=0.6.3",
+    "autogen>=0.7.3",
+    "autogen-agentchat>=0.4.5",
+    "autogen-ext[openai,web-surfer]>=0.4.5",
+]
+
+[tool.uv.sources]
+swarm = { git = "https://github.com/openai/swarm.git" }

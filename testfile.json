@@ -1,0 +1,253 @@
+{
+    "user": {
+        "id": "948736680554409984",
+        "url": "https://x.com/elliotrades",
+        "name": "EllioTrades",
+        "username": "elliotrades",
+        "created_at": "Thu Jan 04 02:03:46 +0000 2018",
+        "description": "Game 2 let\u2019s begin SUPER CYCLE || https://t.co/FVXtAoi5Zf",
+        "favourites_count": 21880,
+        "followers_count": 825035,
+        "listed_count": 7807,
+        "media_count": 1038,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838924181532221440/GvZgQ855_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/948736680554409984/1728492058",
+        "statuses_count": 16201,
+        "verified": false,
+        "is_blue_verified": true,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3DzSZlX",
+                        "expanded_url": "http://bit.ly/3DzSZlX",
+                        "url": "https://t.co/FVXtAoi5Zf",
+                        "indices": [
+                            34,
+                            57
+                        ]
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/@elliotrades_o\u2026",
+                        "expanded_url": "http://youtube.com/@elliotrades_official",
+                        "url": "https://t.co/7jLPP6RYO3",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            }
+        },
+        "can_dm": false,
+        "can_media_tag": false,
+        "location": "",
+        "pinned_tweet_ids": [
+            "1881404380286763374"
+        ]
+    },
+    
+    "id": "1697710398349168953",
+    "text": "Today's top Crypto News: \n- ETF \"inevitable\" even though delayed\n- BTC retrace triggers CX depression\n- China Legalizes Crypto and increases Stimulus\n- Robinhood buys SBF's shares worth $600M \n- X to collect biometric and employment data",
+    "reply_count": 50,
+    "retweet_count": 61,
+    "like_count": 477,
+    "quote_count": 2,
+    "bookmark_count": 15,
+    "url": "https://x.com/elliotrades/status/1697710398349168953",
+    "created_at": "Fri Sep 01 20:37:55 +0000 2023",
+    "media": [
+        {
+            "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/1697709608574279680/pu/img/J-OT4V4RkhwEKb_Y.jpg",
+            "type": "video"
+        }
+    ],
+    "is_quote_tweet": false,
+    "is_retweet": false,
+    "lang": "en",
+    "conversation_id": "1697710398349168953",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null,
+    "quoted_status_id": null,
+    "quote": null,
+    "display_text_range": [
+        0,
+        237
+    ],
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.x.com/uAYujgKrI3",
+                "expanded_url": "https://x.com/elliotrades/status/1697710398349168953/video/1",
+                "id_str": "1697709608574279680",
+                "indices": [
+                    238,
+                    261
+                ],
+                "media_key": "7_1697709608574279680",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1697709608574279680/pu/img/J-OT4V4RkhwEKb_Y.jpg",
+                "type": "video",
+                "url": "https://t.co/uAYujgKrI3",
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "ext_media_availability": {
+                    "status": "Available"
+                },
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "w": 720,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "h": 720,
+                        "w": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "h": 680,
+                        "w": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "w": 150,
+                        "resize": "crop"
+                    }
+                },
+                "original_info": {
+                    "height": 720,
+                    "width": 720,
+                    "focus_rects": []
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 92333,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/pl/jRCPpLJ7uT8utEg0.m3u8?tag=12&v=0c1"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/320x320/KbPxjC0YXFItnCXv.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/540x540/SU2knmE6APxYmpRJ.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/720x720/Mh07cKjouPvnmbxW.mp4?tag=12"
+                        }
+                    ]
+                },
+                "media_results": {
+                    "result": {
+                        "media_key": "7_1697709608574279680"
+                    }
+                }
+            }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.x.com/uAYujgKrI3",
+                "expanded_url": "https://x.com/elliotrades/status/1697710398349168953/video/1",
+                "id_str": "1697709608574279680",
+                "indices": [
+                    238,
+                    261
+                ],
+                "media_key": "7_1697709608574279680",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1697709608574279680/pu/img/J-OT4V4RkhwEKb_Y.jpg",
+                "type": "video",
+                "url": "https://t.co/uAYujgKrI3",
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "ext_media_availability": {
+                    "status": "Available"
+                },
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "w": 720,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "h": 720,
+                        "w": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "h": 680,
+                        "w": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "w": 150,
+                        "resize": "crop"
+                    }
+                },
+                "original_info": {
+                    "height": 720,
+                    "width": 720,
+                    "focus_rects": []
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 92333,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/pl/jRCPpLJ7uT8utEg0.m3u8?tag=12&v=0c1"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/320x320/KbPxjC0YXFItnCXv.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/540x540/SU2knmE6APxYmpRJ.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/720x720/Mh07cKjouPvnmbxW.mp4?tag=12"
+                        }
+                    ]
+                },
+                "media_results": {
+                    "result": {
+                        "media_key": "7_1697709608574279680"
+                    }
+                }
+            }
+        ]
+    }
+}

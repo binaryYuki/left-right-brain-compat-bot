@@ -1,0 +1,4059 @@
+[
+    {
+        "user": {
+            "id": "948736680554409984",
+            "url": "https://x.com/elliotrades",
+            "name": "EllioTrades",
+            "username": "elliotrades",
+            "created_at": "Thu Jan 04 02:03:46 +0000 2018",
+            "description": "Game 2 let\u2019s begin SUPER CYCLE || https://t.co/FVXtAoi5Zf",
+            "favourites_count": 21880,
+            "followers_count": 825035,
+            "listed_count": 7807,
+            "media_count": 1038,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1838924181532221440/GvZgQ855_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/948736680554409984/1728492058",
+            "statuses_count": 16201,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/3DzSZlX",
+                            "expanded_url": "http://bit.ly/3DzSZlX",
+                            "url": "https://t.co/FVXtAoi5Zf",
+                            "indices": [
+                                34,
+                                57
+                            ]
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/@elliotrades_o\u2026",
+                            "expanded_url": "http://youtube.com/@elliotrades_official",
+                            "url": "https://t.co/7jLPP6RYO3",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": false,
+            "location": "",
+            "pinned_tweet_ids": [
+                "1881404380286763374"
+            ]
+        },
+        "id": "1697710398349168953",
+        "text": "Today's top Crypto News: \n- ETF \"inevitable\" even though delayed\n- BTC retrace triggers CX depression\n- China Legalizes Crypto and increases Stimulus\n- Robinhood buys SBF's shares worth $600M \n- X to collect biometric and employment data",
+        "reply_count": 50,
+        "retweet_count": 61,
+        "like_count": 477,
+        "quote_count": 2,
+        "bookmark_count": 15,
+        "url": "https://x.com/elliotrades/status/1697710398349168953",
+        "created_at": "Fri Sep 01 20:37:55 +0000 2023",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/ext_tw_video_thumb/1697709608574279680/pu/img/J-OT4V4RkhwEKb_Y.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1697710398349168953",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            237
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/uAYujgKrI3",
+                    "expanded_url": "https://x.com/elliotrades/status/1697710398349168953/video/1",
+                    "id_str": "1697709608574279680",
+                    "indices": [
+                        238,
+                        261
+                    ],
+                    "media_key": "7_1697709608574279680",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1697709608574279680/pu/img/J-OT4V4RkhwEKb_Y.jpg",
+                    "type": "video",
+                    "url": "https://t.co/uAYujgKrI3",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 720,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 720,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 720,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 92333,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/pl/jRCPpLJ7uT8utEg0.m3u8?tag=12&v=0c1"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/320x320/KbPxjC0YXFItnCXv.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/540x540/SU2knmE6APxYmpRJ.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/720x720/Mh07cKjouPvnmbxW.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "7_1697709608574279680"
+                        }
+                    }
+                }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/uAYujgKrI3",
+                    "expanded_url": "https://x.com/elliotrades/status/1697710398349168953/video/1",
+                    "id_str": "1697709608574279680",
+                    "indices": [
+                        238,
+                        261
+                    ],
+                    "media_key": "7_1697709608574279680",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1697709608574279680/pu/img/J-OT4V4RkhwEKb_Y.jpg",
+                    "type": "video",
+                    "url": "https://t.co/uAYujgKrI3",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 720,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 720,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 720,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 92333,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/pl/jRCPpLJ7uT8utEg0.m3u8?tag=12&v=0c1"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/320x320/KbPxjC0YXFItnCXv.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/540x540/SU2knmE6APxYmpRJ.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1697709608574279680/pu/vid/720x720/Mh07cKjouPvnmbxW.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "7_1697709608574279680"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1877410129164775660",
+        "text": "CRYPTO NEWS &amp; UPDATE \ud83d\udea8\n\nHOT TOPICS - \n\ud83d\udd25 DOJ plans to sell 6.5 BILLION $BTC\n\ud83d\udd25 70% of lost crypto came from hacks \n\ud83d\udd25Crypto firm donates 1 MILLION to Trump\n\nWATCH FULL VIDEO &amp; MAX ENGAGE \ud83d\udc4a https://t.co/f6IAVhOCZO",
+        "reply_count": 51,
+        "retweet_count": 38,
+        "like_count": 281,
+        "quote_count": 1,
+        "bookmark_count": 5,
+        "url": "https://x.com/RomeJayX/status/1877410129164775660",
+        "created_at": "Thu Jan 09 17:40:30 +0000 2025",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1877410049070678016/img/l8hE2BEal0nKwZxv.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1877410129164775660",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            193
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/f6IAVhOCZO",
+                    "expanded_url": "https://x.com/RomeJayX/status/1877410129164775660/video/1",
+                    "id_str": "1877410049070678016",
+                    "indices": [
+                        194,
+                        217
+                    ],
+                    "media_key": "13_1877410049070678016",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1877410049070678016/img/l8hE2BEal0nKwZxv.jpg",
+                    "type": "video",
+                    "url": "https://t.co/f6IAVhOCZO",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 854,
+                            "w": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 854,
+                            "w": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 382,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 854,
+                        "width": 480,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            240,
+                            427
+                        ],
+                        "duration_millis": 78266,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1877410049070678016/pl/MeWn6GiVEqmtIBnM.m3u8?tag=16&v=147"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877410049070678016/vid/avc1/320x568/1EecZcci9uJptePN.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877410049070678016/vid/avc1/480x854/a2qnk6fTIudCl4gy.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1877410049070678016"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        74,
+                        78
+                    ],
+                    "text": "BTC"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/f6IAVhOCZO",
+                    "expanded_url": "https://x.com/RomeJayX/status/1877410129164775660/video/1",
+                    "id_str": "1877410049070678016",
+                    "indices": [
+                        194,
+                        217
+                    ],
+                    "media_key": "13_1877410049070678016",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1877410049070678016/img/l8hE2BEal0nKwZxv.jpg",
+                    "type": "video",
+                    "url": "https://t.co/f6IAVhOCZO",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 854,
+                            "w": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 854,
+                            "w": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 382,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 854,
+                        "width": 480,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            240,
+                            427
+                        ],
+                        "duration_millis": 78266,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1877410049070678016/pl/MeWn6GiVEqmtIBnM.m3u8?tag=16&v=147"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877410049070678016/vid/avc1/320x568/1EecZcci9uJptePN.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877410049070678016/vid/avc1/480x854/a2qnk6fTIudCl4gy.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1877410049070678016"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1877739312378151205",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS - \n\ud83d\udd25 @0xzerebro 8 days in red\n\ud83d\udd25 @bubblemaps airdrop incoming \n\ud83d\udd25 @Polymarket is back 20% USA will sell 6.5 Billion $BTC\n\nBOOST ME &amp; I\u2019LL BOOST YOU \ud83d\ude80 https://t.co/16SYcKOkgK",
+        "reply_count": 34,
+        "retweet_count": 28,
+        "like_count": 231,
+        "quote_count": 6,
+        "bookmark_count": 8,
+        "url": "https://x.com/RomeJayX/status/1877739312378151205",
+        "created_at": "Fri Jan 10 15:28:33 +0000 2025",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1877739162410913792/img/nBx-blQh4myE_lEl.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1877739312378151205",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            191
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/16SYcKOkgK",
+                    "expanded_url": "https://x.com/RomeJayX/status/1877739312378151205/video/1",
+                    "id_str": "1877739162410913792",
+                    "indices": [
+                        192,
+                        215
+                    ],
+                    "media_key": "13_1877739162410913792",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1877739162410913792/img/nBx-blQh4myE_lEl.jpg",
+                    "type": "video",
+                    "url": "https://t.co/16SYcKOkgK",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1920,
+                            "w": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1920,
+                        "width": 1080,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 72700,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/pl/asRNeubKhfD6mSET.m3u8?tag=16&v=734"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/320x568/OcCwO6wox0SJ-NNh.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/480x852/SkUfZBOcdlQyOsr3.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/720x1280/3OtjZSJGKVJTS587.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 10368000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/1080x1920/f_KzBR_Ax-2k5Yru.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1877739162410913792"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        154,
+                        158
+                    ],
+                    "text": "BTC"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1849681919253925888",
+                    "name": "zerebro",
+                    "screen_name": "0xzerebro",
+                    "indices": [
+                        45,
+                        55
+                    ]
+                },
+                {
+                    "id_str": "1385312402795859968",
+                    "name": "Bubblemaps",
+                    "screen_name": "bubblemaps",
+                    "indices": [
+                        72,
+                        83
+                    ]
+                },
+                {
+                    "id_str": "1261335549215989760",
+                    "name": "Polymarket",
+                    "screen_name": "Polymarket",
+                    "indices": [
+                        104,
+                        115
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/16SYcKOkgK",
+                    "expanded_url": "https://x.com/RomeJayX/status/1877739312378151205/video/1",
+                    "id_str": "1877739162410913792",
+                    "indices": [
+                        192,
+                        215
+                    ],
+                    "media_key": "13_1877739162410913792",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1877739162410913792/img/nBx-blQh4myE_lEl.jpg",
+                    "type": "video",
+                    "url": "https://t.co/16SYcKOkgK",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1920,
+                            "w": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1920,
+                        "width": 1080,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 72700,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/pl/asRNeubKhfD6mSET.m3u8?tag=16&v=734"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/320x568/OcCwO6wox0SJ-NNh.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/480x852/SkUfZBOcdlQyOsr3.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/720x1280/3OtjZSJGKVJTS587.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 10368000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1877739162410913792/vid/avc1/1080x1920/f_KzBR_Ax-2k5Yru.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1877739162410913792"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "958118843636854784",
+            "url": "https://x.com/AltcoinDailyio",
+            "name": "Altcoin Daily",
+            "username": "AltcoinDailyio",
+            "created_at": "Mon Jan 29 23:25:08 +0000 2018",
+            "description": "\ud83c\udfa5 Follow our YouTube channel for DAILY news & opinion videos! Brothers Aaron & Austin. Crypto commentators. Bitcoin, Ethereum, Solana, & altcoins! \ud83d\ude80",
+            "favourites_count": 84402,
+            "followers_count": 1839390,
+            "listed_count": 7443,
+            "media_count": 10571,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1869809671957045248/SW0UqoZQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/958118843636854784/1517476224",
+            "statuses_count": 38620,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/c/AltcoinDaily",
+                            "expanded_url": "https://www.youtube.com/c/AltcoinDaily",
+                            "url": "https://t.co/9z6yWdhsUd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": false,
+            "location": "Not Financial Advice",
+            "pinned_tweet_ids": [
+                "1886916273746952387"
+            ]
+        },
+        "id": "1834357872865804705",
+        "text": "Big Crypto News Today!\n\n- $XRP $ETH $BTC\n- BlackRock\n- Chainlink\n- Trump vs Kamala\n\nClick HERE \ud83d\udc47\n&gt;&gt; https://t.co/MostWA2AId https://t.co/SdhaQpQGgG",
+        "reply_count": 74,
+        "retweet_count": 54,
+        "like_count": 227,
+        "quote_count": 2,
+        "bookmark_count": 5,
+        "url": "https://x.com/AltcoinDailyio/status/1834357872865804705",
+        "created_at": "Thu Sep 12 22:26:12 +0000 2024",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/media/GXTyvQdbgAI_EoF.jpg",
+                "type": "photo"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1834357872865804705",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            129
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/SdhaQpQGgG",
+                    "expanded_url": "https://x.com/AltcoinDailyio/status/1834357872865804705/photo/1",
+                    "id_str": "1834357841932812290",
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "media_key": "3_1834357841932812290",
+                    "media_url_https": "https://pbs.twimg.com/media/GXTyvQdbgAI_EoF.jpg",
+                    "type": "photo",
+                    "url": "https://t.co/SdhaQpQGgG",
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 1282,
+                                    "y": 330,
+                                    "h": 360,
+                                    "w": 360
+                                },
+                                {
+                                    "x": 326,
+                                    "y": 311,
+                                    "h": 408,
+                                    "w": 408
+                                },
+                                {
+                                    "x": 727,
+                                    "y": 406,
+                                    "h": 465,
+                                    "w": 465
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 801,
+                                    "y": 206,
+                                    "h": 225,
+                                    "w": 225
+                                },
+                                {
+                                    "x": 203,
+                                    "y": 194,
+                                    "h": 255,
+                                    "w": 255
+                                },
+                                {
+                                    "x": 454,
+                                    "y": 253,
+                                    "h": 290,
+                                    "w": 290
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 116,
+                                    "h": 127,
+                                    "w": 127
+                                },
+                                {
+                                    "x": 115,
+                                    "y": 110,
+                                    "h": 144,
+                                    "w": 144
+                                },
+                                {
+                                    "x": 257,
+                                    "y": 143,
+                                    "h": 164,
+                                    "w": 164
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 1282,
+                                    "y": 330,
+                                    "h": 360,
+                                    "w": 360
+                                },
+                                {
+                                    "x": 326,
+                                    "y": 311,
+                                    "h": 408,
+                                    "w": 408
+                                },
+                                {
+                                    "x": 727,
+                                    "y": 406,
+                                    "h": 465,
+                                    "w": 465
+                                }
+                            ]
+                        }
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1080,
+                            "w": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 675,
+                            "w": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 383,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1080,
+                        "width": 1920,
+                        "focus_rects": [
+                            {
+                                "x": 0,
+                                "y": 5,
+                                "w": 1920,
+                                "h": 1075
+                            },
+                            {
+                                "x": 840,
+                                "y": 0,
+                                "w": 1080,
+                                "h": 1080
+                            },
+                            {
+                                "x": 973,
+                                "y": 0,
+                                "w": 947,
+                                "h": 1080
+                            },
+                            {
+                                "x": 1218,
+                                "y": 0,
+                                "w": 540,
+                                "h": 1080
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1920,
+                                "h": 1080
+                            }
+                        ]
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "3_1834357841932812290"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        26,
+                        30
+                    ],
+                    "text": "XRP"
+                },
+                {
+                    "indices": [
+                        31,
+                        35
+                    ],
+                    "text": "ETH"
+                },
+                {
+                    "indices": [
+                        36,
+                        40
+                    ],
+                    "text": "BTC"
+                }
+            ],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/pqgBJcqswdY",
+                    "expanded_url": "https://youtu.be/pqgBJcqswdY",
+                    "url": "https://t.co/MostWA2AId",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/SdhaQpQGgG",
+                    "expanded_url": "https://x.com/AltcoinDailyio/status/1834357872865804705/photo/1",
+                    "id_str": "1834357841932812290",
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "media_key": "3_1834357841932812290",
+                    "media_url_https": "https://pbs.twimg.com/media/GXTyvQdbgAI_EoF.jpg",
+                    "type": "photo",
+                    "url": "https://t.co/SdhaQpQGgG",
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 1282,
+                                    "y": 330,
+                                    "h": 360,
+                                    "w": 360
+                                },
+                                {
+                                    "x": 326,
+                                    "y": 311,
+                                    "h": 408,
+                                    "w": 408
+                                },
+                                {
+                                    "x": 727,
+                                    "y": 406,
+                                    "h": 465,
+                                    "w": 465
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 801,
+                                    "y": 206,
+                                    "h": 225,
+                                    "w": 225
+                                },
+                                {
+                                    "x": 203,
+                                    "y": 194,
+                                    "h": 255,
+                                    "w": 255
+                                },
+                                {
+                                    "x": 454,
+                                    "y": 253,
+                                    "h": 290,
+                                    "w": 290
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 454,
+                                    "y": 116,
+                                    "h": 127,
+                                    "w": 127
+                                },
+                                {
+                                    "x": 115,
+                                    "y": 110,
+                                    "h": 144,
+                                    "w": 144
+                                },
+                                {
+                                    "x": 257,
+                                    "y": 143,
+                                    "h": 164,
+                                    "w": 164
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 1282,
+                                    "y": 330,
+                                    "h": 360,
+                                    "w": 360
+                                },
+                                {
+                                    "x": 326,
+                                    "y": 311,
+                                    "h": 408,
+                                    "w": 408
+                                },
+                                {
+                                    "x": 727,
+                                    "y": 406,
+                                    "h": 465,
+                                    "w": 465
+                                }
+                            ]
+                        }
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1080,
+                            "w": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 675,
+                            "w": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 383,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1080,
+                        "width": 1920,
+                        "focus_rects": [
+                            {
+                                "x": 0,
+                                "y": 5,
+                                "w": 1920,
+                                "h": 1075
+                            },
+                            {
+                                "x": 840,
+                                "y": 0,
+                                "w": 1080,
+                                "h": 1080
+                            },
+                            {
+                                "x": 973,
+                                "y": 0,
+                                "w": 947,
+                                "h": 1080
+                            },
+                            {
+                                "x": 1218,
+                                "y": 0,
+                                "w": 540,
+                                "h": 1080
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1920,
+                                "h": 1080
+                            }
+                        ]
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "3_1834357841932812290"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1800151465325191563",
+        "text": "\ud83d\udd25 Crypto News is Live \ud83d\udd25\n\nThis week's crypto review is wild!\n\n1:39 Bitcoin ETF Inflows\n\n3:46 Roaring Kitty Returns\n\n7:18 Jobs Data Disappoints\n\n9:55 Trump\u2019s Crypto Pitch\n\n12:01 EU Restricts Stablecoins\n\n14:23 US Dollar Surprise\n\n18:54 Top Performing Cryptos\n\nDon't miss it! https://t.co/SO82Cp4xrQ",
+        "reply_count": 77,
+        "retweet_count": 47,
+        "like_count": 247,
+        "quote_count": 0,
+        "bookmark_count": 21,
+        "url": "https://x.com/coinbureau/status/1800151465325191563",
+        "created_at": "Mon Jun 10 13:02:09 +0000 2024",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1800147588093534208/img/NaIBbN8qWYoS76Vk.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1800151465325191563",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/SO82Cp4xrQ",
+                    "expanded_url": "https://x.com/coinbureau/status/1800151465325191563/video/1",
+                    "id_str": "1800147588093534208",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_key": "13_1800147588093534208",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1800147588093534208/img/NaIBbN8qWYoS76Vk.jpg",
+                    "type": "video",
+                    "url": "https://t.co/SO82Cp4xrQ",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1080,
+                            "w": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 675,
+                            "w": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 383,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1080,
+                        "width": 1920,
+                        "focus_rects": []
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 1372200,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/pl/80-sRcqE6LWzI-F_.m3u8?tag=14&v=fc9"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/vid/avc1/480x270/BrInbVfXTp1xrOkK.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/vid/avc1/640x360/-NyUr5nQtRydOLhM.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/vid/avc1/1280x720/gBXieHrZRQe6B08B.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1800147588093534208"
+                        }
+                    }
+                }
+            ],
+            "symbols": [],
+            "timestamps": [
+                {
+                    "indices": [
+                        61,
+                        65
+                    ],
+                    "seconds": 99,
+                    "text": "1:39"
+                },
+                {
+                    "indices": [
+                        87,
+                        91
+                    ],
+                    "seconds": 226,
+                    "text": "3:46"
+                },
+                {
+                    "indices": [
+                        115,
+                        119
+                    ],
+                    "seconds": 438,
+                    "text": "7:18"
+                },
+                {
+                    "indices": [
+                        143,
+                        147
+                    ],
+                    "seconds": 595,
+                    "text": "9:55"
+                },
+                {
+                    "indices": [
+                        170,
+                        175
+                    ],
+                    "seconds": 721,
+                    "text": "12:01"
+                },
+                {
+                    "indices": [
+                        202,
+                        207
+                    ],
+                    "seconds": 863,
+                    "text": "14:23"
+                },
+                {
+                    "indices": [
+                        228,
+                        233
+                    ],
+                    "seconds": 1134,
+                    "text": "18:54"
+                }
+            ],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/SO82Cp4xrQ",
+                    "expanded_url": "https://x.com/coinbureau/status/1800151465325191563/video/1",
+                    "id_str": "1800147588093534208",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_key": "13_1800147588093534208",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1800147588093534208/img/NaIBbN8qWYoS76Vk.jpg",
+                    "type": "video",
+                    "url": "https://t.co/SO82Cp4xrQ",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1080,
+                            "w": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 675,
+                            "w": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 383,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1080,
+                        "width": 1920,
+                        "focus_rects": []
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 1372200,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/pl/80-sRcqE6LWzI-F_.m3u8?tag=14&v=fc9"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/vid/avc1/480x270/BrInbVfXTp1xrOkK.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/vid/avc1/640x360/-NyUr5nQtRydOLhM.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1800147588093534208/vid/avc1/1280x720/gBXieHrZRQe6B08B.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1800147588093534208"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1881908774425989553",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS - \n\ud83d\udd25 @RobinhoodApp &amp; @moonshot team up\n\ud83d\udd25 @realDonaldTrump get sued over D.O.G.E. \n\ud83d\udd25 @crypto_bitlord7 make huge $TRUMP price prediction\n\nMAX ENGAGE &amp; WATCH FULL VIDEO \ud83d\ude80 https://t.co/F4H0u1YnYB",
+        "reply_count": 37,
+        "retweet_count": 26,
+        "like_count": 289,
+        "quote_count": 4,
+        "bookmark_count": 18,
+        "url": "https://x.com/RomeJayX/status/1881908774425989553",
+        "created_at": "Wed Jan 22 03:36:30 +0000 2025",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1881908672701296641/img/iiPEV6gVPpz482qQ.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1881908774425989553",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/F4H0u1YnYB",
+                    "expanded_url": "https://x.com/RomeJayX/status/1881908774425989553/video/1",
+                    "id_str": "1881908672701296641",
+                    "indices": [
+                        216,
+                        239
+                    ],
+                    "media_key": "13_1881908672701296641",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1881908672701296641/img/iiPEV6gVPpz482qQ.jpg",
+                    "type": "video",
+                    "url": "https://t.co/F4H0u1YnYB",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 82533,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/pl/yvzjXG6eX-v9rmi-.m3u8?tag=16&v=316"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/vid/avc1/320x568/5CrPHPqDitSkxQ_L.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/vid/avc1/480x852/h1TsAIz8C9Toc3nx.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/vid/avc1/720x1280/MgeqyWrTRXod5Z7j.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1881908672701296641"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        155,
+                        161
+                    ],
+                    "text": "TRUMP"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1265037073",
+                    "name": "Robinhood",
+                    "screen_name": "RobinhoodApp",
+                    "indices": [
+                        45,
+                        58
+                    ]
+                },
+                {
+                    "id_str": "1788966273814339584",
+                    "name": "Moonshot",
+                    "screen_name": "moonshot",
+                    "indices": [
+                        65,
+                        74
+                    ]
+                },
+                {
+                    "id_str": "25073877",
+                    "name": "Donald J. Trump",
+                    "screen_name": "realDonaldTrump",
+                    "indices": [
+                        85,
+                        101
+                    ]
+                },
+                {
+                    "id_str": "1343224146658914304",
+                    "name": "Crypto Bitlord",
+                    "screen_name": "crypto_bitlord7",
+                    "indices": [
+                        128,
+                        144
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/F4H0u1YnYB",
+                    "expanded_url": "https://x.com/RomeJayX/status/1881908774425989553/video/1",
+                    "id_str": "1881908672701296641",
+                    "indices": [
+                        216,
+                        239
+                    ],
+                    "media_key": "13_1881908672701296641",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1881908672701296641/img/iiPEV6gVPpz482qQ.jpg",
+                    "type": "video",
+                    "url": "https://t.co/F4H0u1YnYB",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 82533,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/pl/yvzjXG6eX-v9rmi-.m3u8?tag=16&v=316"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/vid/avc1/320x568/5CrPHPqDitSkxQ_L.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/vid/avc1/480x852/h1TsAIz8C9Toc3nx.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881908672701296641/vid/avc1/720x1280/MgeqyWrTRXod5Z7j.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1881908672701296641"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1881342505737949643",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS - \n\ud83c\uddfa\ud83c\uddf8 $BTC &amp; $SOL both hitting ATHs\n\ud83c\uddfa\ud83c\uddf8 @worldlibertyfi buying millions of $ETH\n\ud83c\uddfa\ud83c\uddf8 Trump to sign over 100 executive orders day one \n\nMAX ENGAGE IF YOU LOVE CRYPTO \ud83d\ude80 https://t.co/UcQdOu3cVz",
+        "reply_count": 59,
+        "retweet_count": 61,
+        "like_count": 306,
+        "quote_count": 5,
+        "bookmark_count": 16,
+        "url": "https://x.com/RomeJayX/status/1881342505737949643",
+        "created_at": "Mon Jan 20 14:06:21 +0000 2025",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1881342384405155840/img/xvCWo_T7r31FijrQ.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1881342505737949643",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            207
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/UcQdOu3cVz",
+                    "expanded_url": "https://x.com/RomeJayX/status/1881342505737949643/video/1",
+                    "id_str": "1881342384405155840",
+                    "indices": [
+                        208,
+                        231
+                    ],
+                    "media_key": "13_1881342384405155840",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1881342384405155840/img/xvCWo_T7r31FijrQ.jpg",
+                    "type": "video",
+                    "url": "https://t.co/UcQdOu3cVz",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 81433,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/pl/WQkU8zcXu8jtQwlD.m3u8?tag=16&v=f56"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/vid/avc1/320x568/1t8bWmmdwJi0_rTq.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/vid/avc1/480x852/LmwxSrMO_wORspwi.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/vid/avc1/720x1280/TpUYjHsF4VMqjG--.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1881342384405155840"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        46,
+                        50
+                    ],
+                    "text": "BTC"
+                },
+                {
+                    "indices": [
+                        57,
+                        61
+                    ],
+                    "text": "SOL"
+                },
+                {
+                    "indices": [
+                        118,
+                        122
+                    ],
+                    "text": "ETH"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1816138985342705664",
+                    "name": "WLFI",
+                    "screen_name": "worldlibertyfi",
+                    "indices": [
+                        83,
+                        98
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/UcQdOu3cVz",
+                    "expanded_url": "https://x.com/RomeJayX/status/1881342505737949643/video/1",
+                    "id_str": "1881342384405155840",
+                    "indices": [
+                        208,
+                        231
+                    ],
+                    "media_key": "13_1881342384405155840",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1881342384405155840/img/xvCWo_T7r31FijrQ.jpg",
+                    "type": "video",
+                    "url": "https://t.co/UcQdOu3cVz",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 81433,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/pl/WQkU8zcXu8jtQwlD.m3u8?tag=16&v=f56"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/vid/avc1/320x568/1t8bWmmdwJi0_rTq.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/vid/avc1/480x852/LmwxSrMO_wORspwi.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1881342384405155840/vid/avc1/720x1280/TpUYjHsF4VMqjG--.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1881342384405155840"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1878821322882760875",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS - \n\ud83d\udd25 @daosdotfun is taking over \n\ud83d\udd25 @moonpay buys Helio for 175 Million \n\ud83d\udd25 Microstrategy accumulates 450,000 $BTC\n\nBOOST ME &amp; I\u2019LL BOOST YOU \ud83d\ude80 https://t.co/ieKU0mE4Pv",
+        "reply_count": 36,
+        "retweet_count": 34,
+        "like_count": 284,
+        "quote_count": 2,
+        "bookmark_count": 15,
+        "url": "https://x.com/RomeJayX/status/1878821322882760875",
+        "created_at": "Mon Jan 13 15:08:04 +0000 2025",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1878821216569704449/img/t2U_J-_LiQkmLW7W.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1878821322882760875",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            185
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/ieKU0mE4Pv",
+                    "expanded_url": "https://x.com/RomeJayX/status/1878821322882760875/video/1",
+                    "id_str": "1878821216569704449",
+                    "indices": [
+                        186,
+                        209
+                    ],
+                    "media_key": "13_1878821216569704449",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1878821216569704449/img/t2U_J-_LiQkmLW7W.jpg",
+                    "type": "video",
+                    "url": "https://t.co/ieKU0mE4Pv",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 81433,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/pl/uCk54PODfNoYUoD4.m3u8?tag=16&v=2fd"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/vid/avc1/320x568/ABvTjHi5SAj9qXE7.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/vid/avc1/480x852/dkqz-sEQdUwdsmcL.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/vid/avc1/720x1280/KodPG7TW2VbTnquH.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1878821216569704449"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        148,
+                        152
+                    ],
+                    "text": "BTC"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1831825812691300352",
+                    "name": "daos.fun",
+                    "screen_name": "daosdotfun",
+                    "indices": [
+                        45,
+                        56
+                    ]
+                },
+                {
+                    "id_str": "1024699964071522305",
+                    "name": "MoonPay \ud83d\udfe3",
+                    "screen_name": "moonpay",
+                    "indices": [
+                        75,
+                        83
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/ieKU0mE4Pv",
+                    "expanded_url": "https://x.com/RomeJayX/status/1878821322882760875/video/1",
+                    "id_str": "1878821216569704449",
+                    "indices": [
+                        186,
+                        209
+                    ],
+                    "media_key": "13_1878821216569704449",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1878821216569704449/img/t2U_J-_LiQkmLW7W.jpg",
+                    "type": "video",
+                    "url": "https://t.co/ieKU0mE4Pv",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 81433,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/pl/uCk54PODfNoYUoD4.m3u8?tag=16&v=2fd"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/vid/avc1/320x568/ABvTjHi5SAj9qXE7.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/vid/avc1/480x852/dkqz-sEQdUwdsmcL.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1878821216569704449/vid/avc1/720x1280/KodPG7TW2VbTnquH.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1878821216569704449"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1574409091874693121",
+        "text": "Crypto News is now live! Lots to cover today including:\n\n- Cardano Vasil Hardfork\n- Algorand upgrades\n- Price Caps &amp; Nationalistion\n- Big Banks vs. Crypto\n- Top Performing coins \n- &amp; much more\n\nEnjoy!\n\nhttps://t.co/GAzAg6WBCP",
+        "reply_count": 122,
+        "retweet_count": 21,
+        "like_count": 286,
+        "quote_count": 7,
+        "bookmark_count": 0,
+        "url": "https://x.com/coinbureau/status/1574409091874693121",
+        "created_at": "Mon Sep 26 14:42:33 +0000 2022",
+        "media": [],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1574409091874693121",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            233
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/dtYpgdtgNbY",
+                    "expanded_url": "https://youtu.be/dtYpgdtgNbY",
+                    "url": "https://t.co/GAzAg6WBCP",
+                    "indices": [
+                        210,
+                        233
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {}
+    },
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1866691572982747349",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS \ud83d\udd25\n\ud83c\udf96\ufe0fNEW MEME COIN @Merv_on_sol \n\ud83c\udf96\ufe0fTIKTOK MEETS THE BLOCKCHAIN \n\ud83c\udf96\ufe0fQUANT COMPUTERS TAKING OVER \n\ud83c\udf96\ufe0fCHINESE POLICE TEAM UP W/ AI ROBOT \n\nMAX ENGAGE &amp; WATCH TILL THE END! https://t.co/lZmhHwCssa",
+        "reply_count": 57,
+        "retweet_count": 35,
+        "like_count": 274,
+        "quote_count": 2,
+        "bookmark_count": 11,
+        "url": "https://x.com/RomeJayX/status/1866691572982747349",
+        "created_at": "Wed Dec 11 03:48:47 +0000 2024",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1866691352051978243/img/AD8amcuyC6W0EiOX.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1866691572982747349",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            209
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/lZmhHwCssa",
+                    "expanded_url": "https://x.com/RomeJayX/status/1866691572982747349/video/1",
+                    "id_str": "1866691352051978243",
+                    "indices": [
+                        210,
+                        233
+                    ],
+                    "media_key": "13_1866691352051978243",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1866691352051978243/img/AD8amcuyC6W0EiOX.jpg",
+                    "type": "video",
+                    "url": "https://t.co/lZmhHwCssa",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 106973,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/pl/pcJj7WQoDWgalNas.m3u8?tag=14&v=65b"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/vid/avc1/320x568/UF2RkjmRReB6ZZqV.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/vid/avc1/480x852/LmEr3AiD_ISykFaT.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/vid/avc1/720x1280/7A3qJkdrBJWwSuYu.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1866691352051978243"
+                        }
+                    }
+                }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1797515818571591680",
+                    "name": "Merv the cat",
+                    "screen_name": "Merv_on_sol",
+                    "indices": [
+                        58,
+                        70
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/lZmhHwCssa",
+                    "expanded_url": "https://x.com/RomeJayX/status/1866691572982747349/video/1",
+                    "id_str": "1866691352051978243",
+                    "indices": [
+                        210,
+                        233
+                    ],
+                    "media_key": "13_1866691352051978243",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1866691352051978243/img/AD8amcuyC6W0EiOX.jpg",
+                    "type": "video",
+                    "url": "https://t.co/lZmhHwCssa",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 106973,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/pl/pcJj7WQoDWgalNas.m3u8?tag=14&v=65b"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/vid/avc1/320x568/UF2RkjmRReB6ZZqV.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/vid/avc1/480x852/LmEr3AiD_ISykFaT.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1866691352051978243/vid/avc1/720x1280/7A3qJkdrBJWwSuYu.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1866691352051978243"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1503380954085220356",
+        "text": "Coin Bureau Crypto News is live! Lots to cover this week including:\n\n- Andre leaving #Fantom\n- PoW Ban in Europe\n- UAE OTC Fud\n- #Ripple lawsuit\n- Record Inflation\n- Big #Crypto bucks\n- Market update &amp; Much more!\n\nEnjoy!\n\nhttps://t.co/1T9kQVyWoI",
+        "reply_count": 79,
+        "retweet_count": 22,
+        "like_count": 284,
+        "quote_count": 4,
+        "bookmark_count": 0,
+        "url": "https://x.com/coinbureau/status/1503380954085220356",
+        "created_at": "Mon Mar 14 14:42:05 +0000 2022",
+        "media": [],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1503380954085220356",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            249
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        92
+                    ],
+                    "text": "Fantom"
+                },
+                {
+                    "indices": [
+                        129,
+                        136
+                    ],
+                    "text": "Ripple"
+                },
+                {
+                    "indices": [
+                        170,
+                        177
+                    ],
+                    "text": "Crypto"
+                }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/_SSAEMlctR0",
+                    "expanded_url": "https://youtu.be/_SSAEMlctR0",
+                    "url": "https://t.co/1T9kQVyWoI",
+                    "indices": [
+                        226,
+                        249
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {}
+    },
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1864326199230779780",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS \ud83d\udd25\n\u2022 $XRP GIVES BACK\n\u2022 $BTC JESUS FIGHTS OF TAXES \n\u2022 CRYPTO IS GROWING ON RUSSIA \n\u2022 US GOVERNMENT MOVES SEIZED ASSETS \n\nMAX ENGAGE &amp; BUY THE DIPS \ud83d\ude80\u2728 https://t.co/eqopJMSShS",
+        "reply_count": 38,
+        "retweet_count": 29,
+        "like_count": 222,
+        "quote_count": 1,
+        "bookmark_count": 5,
+        "url": "https://x.com/RomeJayX/status/1864326199230779780",
+        "created_at": "Wed Dec 04 15:09:38 +0000 2024",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1864326017617416193/img/ZWB5O0NwQCvNoFBG.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1864326199230779780",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            191
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/eqopJMSShS",
+                    "expanded_url": "https://x.com/RomeJayX/status/1864326199230779780/video/1",
+                    "id_str": "1864326017617416193",
+                    "indices": [
+                        192,
+                        215
+                    ],
+                    "media_key": "13_1864326017617416193",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1864326017617416193/img/ZWB5O0NwQCvNoFBG.jpg",
+                    "type": "video",
+                    "url": "https://t.co/eqopJMSShS",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1920,
+                            "w": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1920,
+                        "width": 1080,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 108973,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/pl/Q2ch0ojkyc6pLKEy.m3u8?tag=14&v=26c"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/vid/avc1/320x568/V3K49pkPi5BBCBJU.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/vid/avc1/480x852/6TWE3Hx54SotKPH3.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/vid/avc1/720x1280/ukRy3qox3ha5WVNY.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1864326017617416193"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        44,
+                        48
+                    ],
+                    "text": "XRP"
+                },
+                {
+                    "indices": [
+                        62,
+                        66
+                    ],
+                    "text": "BTC"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/eqopJMSShS",
+                    "expanded_url": "https://x.com/RomeJayX/status/1864326199230779780/video/1",
+                    "id_str": "1864326017617416193",
+                    "indices": [
+                        192,
+                        215
+                    ],
+                    "media_key": "13_1864326017617416193",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1864326017617416193/img/ZWB5O0NwQCvNoFBG.jpg",
+                    "type": "video",
+                    "url": "https://t.co/eqopJMSShS",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1920,
+                            "w": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1920,
+                        "width": 1080,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 108973,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/pl/Q2ch0ojkyc6pLKEy.m3u8?tag=14&v=26c"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/vid/avc1/320x568/V3K49pkPi5BBCBJU.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/vid/avc1/480x852/6TWE3Hx54SotKPH3.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1864326017617416193/vid/avc1/720x1280/ukRy3qox3ha5WVNY.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1864326017617416193"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1882154130686586887",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS - \n\ud83d\udd25 @pumpdotfun being sued \n\ud83d\udd25 $JUP airdropping &amp; claim is live\n\ud83d\udd25@_kaitoai yapper program is live\n\ud83d\udd25 Silkroad dormant wallet resurfaces \n\nMAX ENGAGE &amp; GET BOOSTED \ud83d\ude80 https://t.co/XgHiJASVDV",
+        "reply_count": 47,
+        "retweet_count": 79,
+        "like_count": 222,
+        "quote_count": 4,
+        "bookmark_count": 34,
+        "url": "https://x.com/RomeJayX/status/1882154130686586887",
+        "created_at": "Wed Jan 22 19:51:28 +0000 2025",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1882154001862365184/img/C_A_QXDxbxXQ8ZKS.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1882154130686586887",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            211
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/XgHiJASVDV",
+                    "expanded_url": "https://x.com/RomeJayX/status/1882154130686586887/video/1",
+                    "id_str": "1882154001862365184",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_key": "13_1882154001862365184",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1882154001862365184/img/C_A_QXDxbxXQ8ZKS.jpg",
+                    "type": "video",
+                    "url": "https://t.co/XgHiJASVDV",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 85066,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/pl/VZ8QpOVA6unSgT3j.m3u8?tag=16&v=5c5"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/vid/avc1/320x568/QTMbbIYQvgk6yr-W.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/vid/avc1/480x852/69oC3A_Y2sbLT9F8.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/vid/avc1/720x1280/t5-aTXVB9M8UrOmZ.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1882154001862365184"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        71,
+                        75
+                    ],
+                    "text": "JUP"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1622243071806128131",
+                    "name": "pump.fun",
+                    "screen_name": "pumpdotfun",
+                    "indices": [
+                        45,
+                        56
+                    ]
+                },
+                {
+                    "id_str": "1522696492791869445",
+                    "name": "Kaito AI \ud83c\udf0a",
+                    "screen_name": "_kaitoai",
+                    "indices": [
+                        109,
+                        118
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/XgHiJASVDV",
+                    "expanded_url": "https://x.com/RomeJayX/status/1882154130686586887/video/1",
+                    "id_str": "1882154001862365184",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_key": "13_1882154001862365184",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1882154001862365184/img/C_A_QXDxbxXQ8ZKS.jpg",
+                    "type": "video",
+                    "url": "https://t.co/XgHiJASVDV",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 85066,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/pl/VZ8QpOVA6unSgT3j.m3u8?tag=16&v=5c5"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/vid/avc1/320x568/QTMbbIYQvgk6yr-W.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/vid/avc1/480x852/69oC3A_Y2sbLT9F8.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1882154001862365184/vid/avc1/720x1280/t5-aTXVB9M8UrOmZ.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1882154001862365184"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1612442581971120131",
+        "text": "Crypto News is now live! Today I am covering:\n\n- DCG on the brink\n- SBF in court\n- FTX assets\n- Silvergate losses\n- OpenAI\n- hodlwave analysis &amp; much more by @intocryptoverse \n\nEnjoy!\n\nhttps://t.co/vrBjIKJqBm",
+        "reply_count": 43,
+        "retweet_count": 33,
+        "like_count": 295,
+        "quote_count": 1,
+        "bookmark_count": 3,
+        "url": "https://x.com/coinbureau/status/1612442581971120131",
+        "created_at": "Mon Jan 09 13:34:03 +0000 2023",
+        "media": [],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1612442581971120131",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            212
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/hZD97sB8_lc",
+                    "expanded_url": "https://youtu.be/hZD97sB8_lc",
+                    "url": "https://t.co/vrBjIKJqBm",
+                    "indices": [
+                        189,
+                        212
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id_str": "943506806931734528",
+                    "name": "Benjamin Cowen",
+                    "screen_name": "intocryptoverse",
+                    "indices": [
+                        162,
+                        178
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {}
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1472949996630777863",
+        "text": "The Weekly Crypto news is now live! Today I will be covering: \n\n- #Polkadot parachains\n- Polygon &amp; Solana Expansion\n- Avalanche for Institutions\n- CMC Data Error\n- Bitwise NFTs\n- Market Update\n\n&amp; much, much more. Enjoy!\n\nhttps://t.co/tUiRAJWMze",
+        "reply_count": 55,
+        "retweet_count": 38,
+        "like_count": 407,
+        "quote_count": 1,
+        "bookmark_count": 2,
+        "url": "https://x.com/coinbureau/status/1472949996630777863",
+        "created_at": "Mon Dec 20 15:20:19 +0000 2021",
+        "media": [],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1472949996630777863",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            252
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        66,
+                        75
+                    ],
+                    "text": "Polkadot"
+                }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/N0optxA36Rw",
+                    "expanded_url": "https://youtu.be/N0optxA36Rw",
+                    "url": "https://t.co/tUiRAJWMze",
+                    "indices": [
+                        229,
+                        252
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {}
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1734196790826537277",
+        "text": "Crypto News is now live! Today we cover:\n\n- Crypto Crash\n- $ETH rotation\n- $SOL summer\n- Economy vs. Inflation\n- $BONK, $ADA, $BTT, $ORDI, $HNT &amp; more\n\nEnjoy!\n\nhttps://t.co/WVkFRUu8p3",
+        "reply_count": 51,
+        "retweet_count": 40,
+        "like_count": 225,
+        "quote_count": 1,
+        "bookmark_count": 6,
+        "url": "https://x.com/coinbureau/status/1734196790826537277",
+        "created_at": "Mon Dec 11 13:01:49 +0000 2023",
+        "media": [],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1734196790826537277",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            187
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [
+                {
+                    "indices": [
+                        59,
+                        63
+                    ],
+                    "text": "ETH"
+                },
+                {
+                    "indices": [
+                        75,
+                        79
+                    ],
+                    "text": "SOL"
+                },
+                {
+                    "indices": [
+                        113,
+                        118
+                    ],
+                    "text": "BONK"
+                },
+                {
+                    "indices": [
+                        120,
+                        124
+                    ],
+                    "text": "ADA"
+                },
+                {
+                    "indices": [
+                        126,
+                        130
+                    ],
+                    "text": "BTT"
+                },
+                {
+                    "indices": [
+                        132,
+                        137
+                    ],
+                    "text": "ORDI"
+                },
+                {
+                    "indices": [
+                        139,
+                        143
+                    ],
+                    "text": "HNT"
+                }
+            ],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=oD4kHx\u2026",
+                    "expanded_url": "https://www.youtube.com/watch?v=oD4kHx14XEs",
+                    "url": "https://t.co/WVkFRUu8p3",
+                    "indices": [
+                        164,
+                        187
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {}
+    },
+    {
+        "user": {
+            "id": "1500248217086140417",
+            "url": "https://x.com/RomeJayX",
+            "name": "Rome",
+            "username": "RomeJayX",
+            "created_at": "Sat Mar 05 23:13:51 +0000 2022",
+            "description": "Crypto Collector | Marketing & Content Creator \ud83c\udfac | DM for partnership \ud83e\udd1d",
+            "favourites_count": 122771,
+            "followers_count": 28620,
+            "listed_count": 74,
+            "media_count": 14959,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1885480361427120128/kKVDiFIm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500248217086140417/1738956828",
+            "statuses_count": 83546,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "can_dm": true,
+            "can_media_tag": true,
+            "location": "Los Angeles, CA",
+            "pinned_tweet_ids": [
+                "1887207918988300786"
+            ]
+        },
+        "id": "1875427964097327115",
+        "text": "CRYPTO NEWS &amp; UPDATES \ud83d\udea8\n\nHOT TOPICS - \n\ud83d\udd25 @solana AIRDROPS INCOMING\n\ud83d\udd25 $FART HITS ATH / SWING TRADING\n\ud83d\udd25 @solana PREPARES FOR QUANTUM HACKS\n\ud83d\udd25 $DOGE WHALES APEING OVER 1.08 BILLION \n\nWATCH FULL VIDEO &amp; GET BOOSTED \ud83d\ude80 https://t.co/EqMB00LPXB",
+        "reply_count": 31,
+        "retweet_count": 27,
+        "like_count": 277,
+        "quote_count": 0,
+        "bookmark_count": 7,
+        "url": "https://x.com/RomeJayX/status/1875427964097327115",
+        "created_at": "Sat Jan 04 06:24:05 +0000 2025",
+        "media": [
+            {
+                "media_url": "https://pbs.twimg.com/amplify_video_thumb/1875427837265448960/img/m3L_0e3hWBQ6U2ol.jpg",
+                "type": "video"
+            }
+        ],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1875427964097327115",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            219
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/EqMB00LPXB",
+                    "expanded_url": "https://x.com/RomeJayX/status/1875427964097327115/video/1",
+                    "id_str": "1875427837265448960",
+                    "indices": [
+                        220,
+                        243
+                    ],
+                    "media_key": "13_1875427837265448960",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1875427837265448960/img/m3L_0e3hWBQ6U2ol.jpg",
+                    "type": "video",
+                    "url": "https://t.co/EqMB00LPXB",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 101423,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/pl/jw59ndnBTDaX5LEs.m3u8?tag=16"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/vid/avc1/320x568/iObAhgoTk6iqqJrO.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/vid/avc1/480x852/MCelTmnECNKxJXXI.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/vid/avc1/720x1280/weW0jJaQufWc9u06.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1875427837265448960"
+                        }
+                    }
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        73,
+                        78
+                    ],
+                    "text": "FART"
+                },
+                {
+                    "indices": [
+                        143,
+                        148
+                    ],
+                    "text": "DOGE"
+                }
+            ],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "951329744804392960",
+                    "name": "Solana",
+                    "screen_name": "solana",
+                    "indices": [
+                        45,
+                        52
+                    ]
+                },
+                {
+                    "id_str": "951329744804392960",
+                    "name": "Solana",
+                    "screen_name": "solana",
+                    "indices": [
+                        106,
+                        113
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.x.com/EqMB00LPXB",
+                    "expanded_url": "https://x.com/RomeJayX/status/1875427964097327115/video/1",
+                    "id_str": "1875427837265448960",
+                    "indices": [
+                        220,
+                        243
+                    ],
+                    "media_key": "13_1875427837265448960",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1875427837265448960/img/m3L_0e3hWBQ6U2ol.jpg",
+                    "type": "video",
+                    "url": "https://t.co/EqMB00LPXB",
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "w": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1280,
+                        "width": 720,
+                        "focus_rects": []
+                    },
+                    "allow_download_status": {
+                        "allow_download": true
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 101423,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/pl/jw59ndnBTDaX5LEs.m3u8?tag=16"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/vid/avc1/320x568/iObAhgoTk6iqqJrO.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/vid/avc1/480x852/MCelTmnECNKxJXXI.mp4?tag=16"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1875427837265448960/vid/avc1/720x1280/weW0jJaQufWc9u06.mp4?tag=16"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1875427837265448960"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1536352910128336899",
+        "text": "Crypto news is live! And, what a start to the week! \nWe will be covering:\n\n- $ETH merge delay &amp; $stETH\n- #Celsius Withdrawals\n- Terra Accusations\n- SEC Clamping down\n- Record Inflation\n- Rate hikes incoming\n- Market updates &amp; more. \n\nhttps://t.co/h1XGyQ7LdW",
+        "reply_count": 40,
+        "retweet_count": 31,
+        "like_count": 305,
+        "quote_count": 5,
+        "bookmark_count": 2,
+        "url": "https://x.com/coinbureau/status/1536352910128336899",
+        "created_at": "Mon Jun 13 14:20:52 +0000 2022",
+        "media": [],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1536352910128336899",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            265
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        109,
+                        117
+                    ],
+                    "text": "Celsius"
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        77,
+                        81
+                    ],
+                    "text": "ETH"
+                },
+                {
+                    "indices": [
+                        100,
+                        106
+                    ],
+                    "text": "stETH"
+                }
+            ],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/raB6UGw8lks",
+                    "expanded_url": "https://youtu.be/raB6UGw8lks",
+                    "url": "https://t.co/h1XGyQ7LdW",
+                    "indices": [
+                        242,
+                        265
+                    ]
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {}
+    },
+    {
+        "user": {
+            "id": "906230721513181184",
+            "url": "https://x.com/coinbureau",
+            "name": "Coin Bureau",
+            "username": "coinbureau",
+            "created_at": "Fri Sep 08 19:00:15 +0000 2017",
+            "description": "Helping with the mass adoption of cryptocurrency by educating one person at a time. \n\nNot Financial Advice",
+            "favourites_count": 5341,
+            "followers_count": 939068,
+            "listed_count": 6634,
+            "media_count": 6600,
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1766423449642135552/nUnn7KF2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/906230721513181184/1726936302",
+            "statuses_count": 18287,
+            "verified": false,
+            "is_blue_verified": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "coinbureau.com/deals/",
+                            "expanded_url": "https://www.coinbureau.com/deals/",
+                            "url": "https://t.co/jgpvLaqYqd",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "can_dm": false,
+            "can_media_tag": true,
+            "location": "Dubai",
+            "pinned_tweet_ids": []
+        },
+        "id": "1640334249994665985",
+        "text": "Crypto News is now live! Today we cover:\n\n- Market chop\n- SEC vs. Altcoins\n- Do Kwon Arrested\n- Asia Pivots\n- Fed raises rates\n- &amp; @intocryptoverse takes us through some hodl wave analysis\n\nEnjoy!\n\nhttps://t.co/5tynyGH5e5",
+        "reply_count": 32,
+        "retweet_count": 30,
+        "like_count": 274,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "url": "https://x.com/coinbureau/status/1640334249994665985",
+        "created_at": "Mon Mar 27 12:45:35 +0000 2023",
+        "media": [],
+        "is_quote_tweet": false,
+        "is_retweet": false,
+        "lang": "en",
+        "conversation_id": "1640334249994665985",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_user_id": null,
+        "quoted_status_id": null,
+        "quote": null,
+        "display_text_range": [
+            0,
+            225
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/VNRIbsfzT_M",
+                    "expanded_url": "https://youtu.be/VNRIbsfzT_M",
+                    "url": "https://t.co/5tynyGH5e5",
+                    "indices": [
+                        202,
+                        225
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id_str": "943506806931734528",
+                    "name": "Benjamin Cowen",
+                    "screen_name": "intocryptoverse",
+                    "indices": [
+                        135,
+                        151
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {}
+    }
+]
