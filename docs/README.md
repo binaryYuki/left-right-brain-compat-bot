@@ -6,6 +6,70 @@
 
 work.pdf contains brief intro of out works'architecture and the results of the experiments.
 
+#### File Function
+This script simulates an AI-driven multi-agent dialogue system using multiple custom ConversableAgents and third-party libraries (e.g., OpenAI's GPT model) to collaboratively process user input for analysis and debate on topics related to the cryptocurrency market.
+
+#### Main Modules and Features
+1. **Dependency Importing**
+   - Use a variety of external dependency libraries (e.g. `autogen-agentchat`, `autogen-ext[openai,web-surfer]`, `playwright`, etc.).
+   - Load the `.env` file to set the API key and model URL configuration.
+
+2. **ConversableAgent Definitions
+   - Defines multiple ConversableAgents with a clear division of responsibilities (news selection, debate support, summary logging, etc.):
+     - **newsSelector**: Filters and selects news related to the cryptocurrency market for the last seven days, blocking advertisements and irrelevant information.
+     - **debateAdviser**: analyses user comments and stores them sorted by pro and con.
+     - **assistantRecorder**: Records and summarizes the main points of a two-agent dialogue.
+     - **debateParticipantA/B**: Provide clear, relevant arguments as the pro and con sides of the debate.
+     - **judge**: Judge the strengths and weaknesses of both sides of the debate and choose a winner.
+     - **host**: moderates the flow of the dialogue, forcing the discussion to focus on the given topic. 3.
+
+3. **Dialogue Functions**: Implement the `host.initiate
+   - implements the `host.initiate_chats` method, which assigns tasks to agents to simulate debates and analysis around cryptocurrency topics.
+   - Each dialogue task has a custom input message, maximum number of rounds, summary strategy, etc.
+
+4. **Data processing**
+   - Read the `results.json` file, parse and construct user social media comments from the cryptocurrency market as input context.
+   - Inject the parsed content into the user's initial message to provide dialogue context.
+
+5. **Asynchronous main functions**
+   - Run the above multi-agent dialogue logic asynchronously using asyncio.
+   - Generate dialogue result output at the end of the logic.
+
+#### Core Technical Points
+- **Multi-Agent Collaboration**: Define multiple ConversableAgents, each with its own role, to form a complex multi-agent dialogue and collaboration process.
+- **API Integration**: Provide language generation and information retrieval capabilities for agents by configuring OpenAI GPT-4 models and tools from Google Search.
+- **Dynamic Context Management**: Loads dynamic contexts for analysis by reading external JSON files and environment variables.
+
+#### Potential Issues
+1. **Exposure of sensitive information**.
+   - The OpenAI API key is explicitly stored, which can easily lead to information leakage, and should be managed by environment variables instead.
+2. **Hardcoded URL**: The base URL of OpenAI is hardcoded, which is a potential migration issue.
+3. **Task complexity**.
+   - The current orchestrator (`host`) logic is simple and lacks further task control or exception handling.
+
+#### Summary
+The file `main.py` implements a multi-intelligence based dialogue and analysis script focused on the cryptocurrency domain. It simulates an efficient information extraction, debate and summary process in the domain through a reasonable division of labour and context injection.
+
+### Use a Markdown table to briefly describe the functionality of the following file: main.py. Based on the above analysis, summarise the overall functionality of the program in one sentence.
+
+### Summarise the function of the program  
+`main.py` implements a multi-intelligence dialogue system that collaboratively generates summaries and decisions through analysis, filtering, and debate around topics related to the cryptocurrency market.
+
+### File function description table
+
+| **Module/Function Points** | **Description** |
+| ------------------------|-----------------------------------------------------------------------------------------------------|
+| **Dependency Import** | Introduces external libraries (e.g. `autogen-ext` and OpenAI API) and tools (e.g. `dotenv` and `playwright`) for functionality extensions.    | **Conversable
+| **ConversableAgent Definition** | Define multiple agents (e.g., news filtering, comment analysis, debate participation, etc.) to implement different business logic responsibilities.                         | **ConversableAgent
+| **Conversation Functionality** | Use `host` to moderate agent conversations, simulating the process of debating and analyzing cryptocurrency market topics.                                        | | **Data Processing** | `host'
+| | **Data Processing** | Read external JSON files as dialogue context to dynamically load and analyze user comments.                                      | **Output Generation
+| **Output Generation** | Aggregate the results of the dialogue to generate a final summary and key points of the market-related debate.                                                 | **Output generation** | Asynchronous main function
+| **Asynchronous main function** | Uses `asyncio` to drive the entire dialogue logic asynchronously, efficiently scheduling agent tasks for collaborative processing.                                    | **Recommendation**: Use `asyncio` to drive the entire dialogue logic asynchronously.
+
+**Recommendation**: Add exception handling and logging to each module to improve robustness.
+
+Translated with DeepL.com (free version)
+
 ## **TF-IDF Score Formula**
 \[
 \text{TF-IDF Score} = \sum_{i = 1}^{N} \text{TF-IDF}(w_{i})
