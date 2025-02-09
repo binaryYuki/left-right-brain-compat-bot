@@ -18,6 +18,12 @@ dependencies = [
     "autogen>=0.7.3",
     "autogen-agentchat>=0.4.5",
     "autogen-ext[openai,web-surfer]>=0.4.5",
+    "polars>=1.22.0",
+    "pdfminer-six>=20240706",
+    "scikit-learn>=1.6.1",
+    "nltk>=3.9.1",
+    "vadersentiment>=3.3.2",
+    "numpy>=2.2.2",
 ]
 
 [tool.uv.sources]

@@ -7,6 +7,8 @@ from importance_calculator import calculate_importance_scores
 from conflict_analysis import calculate_conflict_intensity
 from StanceCalculation import calculate_stance_scores
 from Varility_Score import calculate_virality_scores
+import nltk
+nltk.download('vader_lexicon')
 
 def parse_created_at(created_at):
     """
