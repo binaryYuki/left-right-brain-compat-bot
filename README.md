@@ -66,7 +66,7 @@ $$text{TF-IDF Score} = \sum_{i = 1}^{N} \text{TF-IDF}(w_{i})$$
 ### **Definition of Variables**
 $( N )$ = Total number of words in the document (tweet).  
 $( w_{i} ) = The ( i )-th word in the document.  $
-$( {TF-IDF}(w_{i})) = The TF-IDF score of word ( w_{i} ), $ calculated as:
+$( {TF-IDF}(w_{i})) = \text The TF-IDF score of word ( w_{i} )$, calculated as:
 
 $\text{TF-IDF}(w_{i}) = \text{TF}(w_{i}) \times \text{IDF}(w_{i})$
 
