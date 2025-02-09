@@ -38,24 +38,12 @@ This script simulates an AI-driven multi-agent dialogue system using multiple cu
 #### Core Technical Points
 - **Multi-Agent Collaboration**: Define multiple ConversableAgents, each with its own role, to form a complex multi-agent dialogue and collaboration process.
 - **API Integration**: Provide language generation and information retrieval capabilities for agents by configuring OpenAI GPT-4 models and tools from Google Search.
-- **Dynamic Context Management**: Loads dynamic contexts for analysis by reading external JSON files and environment variables.
+- **Dynamic Context Management**: Loads dynamic contexts for analysis by reading external JSON files and environment variables
 
-#### Potential Issues
-1. **Exposure of sensitive information**.
-   - The OpenAI API key is explicitly stored, which can easily lead to information leakage, and should be managed by environment variables instead.
-2. **Hardcoded URL**: The base URL of OpenAI is hardcoded, which is a potential migration issue.
-3. **Task complexity**.
-   - The current orchestrator (`host`) logic is simple and lacks further task control or exception handling.
-
-#### Summary
 The file `main.py` implements a multi-intelligence based dialogue and analysis script focused on the cryptocurrency domain. It simulates an efficient information extraction, debate and summary process in the domain through a reasonable division of labour and context injection.
 
-### Use a Markdown table to briefly describe the functionality of the following file: main.py. Based on the above analysis, summarise the overall functionality of the program in one sentence.
-
-### Summarise the function of the program  
 `main.py` implements a multi-intelligence dialogue system that collaboratively generates summaries and decisions through analysis, filtering, and debate around topics related to the cryptocurrency market.
 
-### File function description table
 
 | **Module/Function Points** | **Description** |
 | ------------------------|-----------------------------------------------------------------------------------------------------|
